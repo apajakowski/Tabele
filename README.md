@@ -8,6 +8,12 @@ Tabele w HTML5:
  <td>A<td>B
 </table>
 ```
+<table>
+<tr>
+ <td>A<td>B
+<tr>
+ <td>A<td>B
+</table>
 
 ##TODO
 1. opanowac system [git][1]
